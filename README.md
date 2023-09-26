@@ -1,7 +1,7 @@
 
 # DESAFIO 1 - FORMAÇÃO HTML5 WEB DEVELOPER DIO
 
-O presente documento possui O DESAFIO 1, realizado durante o curso Formação HTML5 Web Developer da DIO, utilizando-se a tecnologia HTML5. A atividade proposta consistiu na construção de um website simples, utilizando as tags explicadas em aula: <h1> até <h6>, <p>, <mark>, <small>, <i>, <u>, <strong>, <ol>, <ul>, <li>, <a>, <hr>, <sub>, <sup>, <blockquote>. Também foi permitido usar outras tags, tais como: <font>, <del> e <abbr>. 
+O presente documento possui O DESAFIO 1, realizado durante o curso "Formação HTML5 Web Developer da DIO", utilizando-se a tecnologia HTML5. A atividade proposta consistiu na construção de um website simples, empregando as tags apresentadas em aula: <h1> até <h6>, <p>, <mark>, <small>, <i>, <u>, <strong>, <ol>, <ul>, <li>, <a>, <hr>, <sub>, <sup>, <blockquote>. Também foi permitido usar outras tags, tais como: <font>, <del> e <abbr>. 
 
 ## 🦾 TECNOLOGIAS UTILIZADAS
 
